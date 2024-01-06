@@ -1,11 +1,11 @@
 {
     "telegram": {
-        "bot_token": "<YOUR_TELEGRAM_BOT_TOKEN_HERE>",
+        "bot_token": "6941511642:AAGZB2vl4FICUQod4osjBXoqFNeDgQ0mi8s",
         "enable_inline_mode": true,
         "context_expiration_time": 600
     },
     "openai": {
-        "api_key": "<YOUR_OPENAI_API_KEY_HERE>",
+        "api_key": "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",
         "chat_model": "gpt-3.5-turbo",
         "chat_temperature": 1.0,
         "enable_custom_system_role": true,
@@ -15,12 +15,12 @@
     "user_management": {
         "allow_all_users": false,
         "allowed_users": [
-            "<USER_ID_1>", 
-            "<USER_ID_2>"
+            "5332414680", 
+            "5332414680"
         ],
         "super_users": [
-            "<SUPER_USER_ID_1>",
-            "<SUPER_USER_ID_2>"
+            "5332414680",
+            "5332414680"
         ]
     },
     "image_generation": {
