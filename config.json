@@ -5,7 +5,7 @@
         "context_expiration_time": 600
     },
     "openai": {
-        "api_key": "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",
+        "api_key": "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",
         "chat_model": "gpt-3.5-turbo",
         "chat_temperature": 1.0,
         "enable_custom_system_role": true,
